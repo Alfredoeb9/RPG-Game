@@ -1,1 +1,1 @@
-"use strict";
+"use strict";var player;function Player(t,s,i,h,a,e){this.classType=t,this.health=s,this.mana=i,this.strength=h,this.agility=a,this.speed=e}
