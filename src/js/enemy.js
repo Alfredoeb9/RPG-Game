@@ -1,1 +1,1 @@
-"use strict";var enemy;function Enemy(t,s,i,e,h,a){this.classType=t,this.health=s,this.mana=i,this.strength=e,this.agility=h,this.speed=a}
+"use strict";var enemy;function Enemy(t,e,i,s,h,n){this.enemyType=t,this.health=e,this.mana=i,this.strength=s,this.agility=h,this.speed=n}
